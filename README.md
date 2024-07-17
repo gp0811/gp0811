@@ -1,5 +1,7 @@
 ### Hi-ya 👋
-My name is Gaurav and I'm backend developer from India. I'm passionate about JavaScript, node.js, Backend development, and Web performance. I love building softwares and have previously worked at Tutree and I Network hub.
+My name is Gaurav and I am a skilled software developer with 3 years of experience in React.js. I have a proven track record of success in developing web applications, specifically in the product-based industries. Currently working with Arya.ag, a company that specializes in agriculture and warehousing, where I am responsible for moving the company towards cloud-based solutions.
+
+In addition to my expertise in React.js, I am also experienced in working with Node.js (express). I am a team player with creative problem-solving skills and have a strong ability to work well under pressure.
 
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
