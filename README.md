@@ -1,7 +1,18 @@
 ### Hi-ya 👋
-My name is Gaurav and I am a skilled software developer with 3 years of experience in React.js. I have a proven track record of success in developing web applications, specifically in the product-based industries. Currently working with Arya.ag, a company that specializes in agriculture and warehousing, where I am responsible for moving the company towards cloud-based solutions.
+Hi, I'm Gaurav Patil! 👋
 
-In addition to my expertise in React.js, I am also experienced in working with Node.js (express). I am a team player with creative problem-solving skills and have a strong ability to work well under pressure.
+I am a Full Stack Developer with 4 years of experience building scalable, high-performance web applications. My expertise lies in the MERN stack (React.js, Node.js, Express) and database management with MongoDB and PostgreSQL.
+
+🔭 Currently: I am a Software Engineer at Exambolt, where I am building core user flows for an EdTech platform supporting 10+ exam categories.
+Implemented real-time exam simulations that reduced test drop-offs by ~30%.
+Built secure Pricing and Subscription workflows for paid test routes.
+Developed a Referral module driving 20–25% of new user signups.
+
+💼 Previous Impact:
+TechNova Creations: Built the UI for "SmartRekha," an AI-powered assistant handling 1,000+ monthly queries.
+Arya.ag: Redesigned warehouse systems handling 10,000+ units and built high-value commodity trading modules.
+
+I am passionate about designing RESTful APIs and delivering secure, responsive full-stack solutions.
 
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
