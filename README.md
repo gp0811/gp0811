@@ -9,7 +9,6 @@ Built secure Pricing and Subscription workflows for paid test routes.
 Developed a Referral module driving 20–25% of new user signups.
 
 💼 Previous Impact:
-
 TechNova Creations: Built the UI for "SmartRekha," an AI-powered assistant handling 1,000+ monthly queries.
 Arya.ag: Redesigned warehouse systems handling 10,000+ units and built high-value commodity trading modules.
 
