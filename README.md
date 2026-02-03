@@ -30,9 +30,9 @@ In addition to my expertise in React.js, I am also experienced in working with N
 <br />
 
 ### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />][nodejs]
+[<img align="left" alt="Node.js" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>][react]
 [<img align="left" alt="HTML5" width="26px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"/>][javascript]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />][nodejs]
 [<img align="left" alt="CSS3" width="26px" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" />][postgres]
 [<img align="left" alt="Sass" width="26px" src="https://icongr.am/devicon/sequelize-original.svg?size=128&color=currentColor" />][sequelize]
 [<img align="left" alt="JavaScript" width="26px" src="https://icongr.am/devicon/git-plain.svg?size=128&color=ff5900" />][git]
@@ -44,6 +44,8 @@ In addition to my expertise in React.js, I am also experienced in working with N
 [<img align="left" alt="Node.js" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/>][vscode]
 [<img align="left" alt="Node.js" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>][postman]
 [<img align="left" alt="Node.js" width="26px" src="https://icongr.am/devicon/heroku-original.svg?size=128&color=c8591e"/>][heroku]
+
+
 
 <br />
 <br />
@@ -102,3 +104,4 @@ In addition to my expertise in React.js, I am also experienced in working with N
 [vscode]: https://code.visualstudio.com/
 [postman]: https://www.postman.com/
 [heroku]: https://www.heroku.com/
+[react]: https://react.dev/
